@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+hr {
+    border: solid;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 50px;
+}
+
+.accordion-body {
+    text-align: center;
+}
+
+.accordion-button {
+    display: block;
+    text-align: center;
+}
